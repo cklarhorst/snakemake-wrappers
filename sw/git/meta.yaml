@@ -1,0 +1,9 @@
+name: "git"
+description: TODO
+url: https://github.com/git/git
+authors:
+  - Christian Klarhorst
+input:
+  - git hash for checkout
+output:
+  - directory containing the git
